@@ -10,7 +10,9 @@ MathsBox快速、轻量且好用，它能让你更轻松地开发纯文字型计
 # 示例
 
 ```
-print hellomathsbox!
+ print hello Mathsbox!
+ 
+ //打印“hello Mathsbox!”
 
  set x=100*100
 
