@@ -10,7 +10,9 @@ MathsBox快速、轻量且好用，它能让你更轻松地开发纯文字型计
 # 示例
 
 ```
- set x=100*10
+print hellomathsbox!
+
+ set x=100*100
 
  //设置变量x为100*100。
 
